@@ -1,0 +1,9 @@
+#  要替换的目录，不配置默认为当前目录
+dir_path: 'F:\01-视频\全40集.画面拉伸版.HD1080P.国语中字'
+
+# 被替换的字符串
+replaced_str: ".HD1080P.X264.AAC.Mandarin.CHS.Mp4er"
+
+# 将要替换成的字符串
+goal_str: ""
+
