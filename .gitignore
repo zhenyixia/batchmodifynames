@@ -1,0 +1,7 @@
+.idea/**
+build/**
+__pycache__/**
+dist/**
+*.spec
+*.log
+*.exe
